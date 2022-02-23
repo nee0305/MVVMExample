@@ -1,0 +1,4 @@
+target 'requestuserlogin' do
+  use_frameworks!
+	pod 'Alamofire'
+end
